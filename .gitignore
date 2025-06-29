@@ -33,3 +33,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+NOTES.md
+1_REQUIREMENTS.md
+2_BASIC_DESIGN.md
